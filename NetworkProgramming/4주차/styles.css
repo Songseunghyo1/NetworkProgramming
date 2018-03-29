@@ -1,0 +1,16 @@
+
+:root {
+    font-size: 14px;
+}
+
+h1 {
+    color: blue;
+    text-align: center;
+    font-family: 'Share Tech', sans-serif;
+    /*font-family: "Helvetica Neue", Arial, Sans-Serif;*/
+    font-size: 1em;
+}
+
+label:hover {
+    color: #FF0000;
+}
