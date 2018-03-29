@@ -6,9 +6,9 @@
 h1 {
     color: blue;
     text-align: center;
-    font-family: 'Share Tech', sans-serif;
+    font-family: 'Anton','Share Tech', sans-serif;
     /*font-family: "Helvetica Neue", Arial, Sans-Serif;*/
-    font-size: 1em;
+    font-size: 2em;
 }
 
 label:hover {
