@@ -1,0 +1,42 @@
+#header {
+    text-align: center;
+}
+
+#header h2 {
+    font-size: 28px;
+    font-family: 'IBM Plex Sans Condensed', sans-serif;
+    font-family: 'Hi Melody', cursive;
+
+
+    border-bottom: 1px solid #DDDDDD;
+}
+
+#header p {
+    text-align: right;
+    font-size: 24px;
+}
+
+#content #send fieldset #sendButton {
+    background-color: #0000FF;
+    color: #FFFFFF;
+}
+
+#content #send fieldset #sendButton:hover {
+    background-color: #FFFFFF;
+    color: #0000FF;
+
+    transition: all 1s;
+}
+
+body {
+    font-family: 'IBM Plex Sans Condensed', sans-serif;
+    font-family: 'Hi Melody', cursive;
+}
+
+#content #send legend {
+    font-size: 22px;
+}
+
+#content #res legend {
+    font-size: 22px;
+}

@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>웹소켓 실습</title><!-- Web Socket-->
+    <link href="https://fonts.googleapis.com/css?family=Hi+Melody" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Hi+Melody|IBM+Plex+Sans+Condensed" rel="stylesheet">
+    <link rel="stylesheet" type="text/css" href="2013108192송승효.css">
+</head>
+<body>
+    <!-- title area-->
+    <header>
+        <div id="header">
+            <h2>웹소켓 클라이언트(HTML5)</h2> <!--web socket client--> <br />
+            <p>작성자: 송승효(2013108192)</p>
+        </div>
+    </header>
+    <!--contents area-->
+    <section id="content">
+        <div id="send">
+            <fieldset>
+                <legend>메세지전송</legend>
+                <input type="text" id="text-view" placeholder="입력하세요"> <!--placeholder="input here"-->
+                <input type="button" id="sendButton" value="메세지전송">    <!-- value="transport" -->
+                <input type="button" id="stopButton" value="연결끊기">      <!-- value="unconnect" -->
+                <!--<hr /><br />-->
+            </fieldset>
+        </div>
+        <label id="statusLabel">접속상태</label>
+        <div id="res">
+            <fieldset>
+                <legend>메세지 수신</legend>
+                <textarea id="textArea" rows="10" cols="30"></textarea>
+            </fieldset>
+        </div>
+    </section>
+    <script src="2013108192송승효.js"></script>
+</body>
+</html>
