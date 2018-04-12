@@ -1,0 +1,44 @@
+* {
+    margin: 0;     /* 모니터의 안쪽에 해당, content의 바깥쪽영역, auto 좌우 자동*/
+    padding: 0;         /* 모니터의 안쪽에 해당, content의 안영역*/
+    font-family: 'Do Hyeon', sans-serif;
+    font-family: 'Open Sans', sans-serif;
+}
+
+body {
+    background: #DCDCDC;
+    font-size: 1em;
+}
+
+header, article, footer {
+    width: 600px;
+    margin: 0 auto;
+}
+
+h1 {
+    font-family: 'Do Hyeon', sans-serif;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 3em;
+    margin: 50px 0;
+    color: #333333;
+    text-shadow: 1px 1px 1px #FFF;
+}
+
+#status-label {
+    display: block;
+    float: left;
+    width: 100%;
+    margin: 10px 0;
+    font-style: italic;
+}
+
+#text-view {
+    float: left;
+    width: 100%;
+    padding: 5px 10px;
+}
+
+#send-button {
+    width: 20%;
+    padding: 6px 10px;
+}
