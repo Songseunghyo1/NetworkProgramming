@@ -1,0 +1,50 @@
+* {
+    /* html파일의 전체적인 스타일지정 */
+    margin: 0;
+    padding: 0;
+    /* 여러개의 글씨체가 설정되었는데 앞에있는 글씨체가 없다면 다음 글씨체,
+       그 다음 글씨체마저 없다면 다음 글씨체를 선택하여 나타냄*/
+    font-family: "Helvetica Neue", Helvetica, "Segoe UI", Arial, sans-serif;
+}
+
+/* html문서 내에서 content를보여줄때 적용할 style  */
+body {
+    /* 배경색 */
+    background: #dcdcdc;
+    /* 글씨크기 */
+    font-size: 1em;
+}
+
+/* header, article, footer에만 적용될 스타일 */
+header, article, footer {
+    width: 600px;   /* 가로600px */
+    margin: 0 auto; /* 좌우위아래 바깥여백 위아래 0, 좌우 자동 */
+}
+
+/* h1에만 적용될 스타일 */
+h1 {
+    font-family: "Helvetica Neue Light", "Segoe UI Light", sans-serif;
+    font-size: 3em;
+    margin: 50px 0; /* 위아래 바깥 여백 50px */
+    color: #333;
+    text-shadow: 1px 1px 1px #fff;
+}
+
+#status-label {
+    display: block;
+    float: left;
+    width: 100%;
+    margin: 10px 0;
+    font-style: italic; /* 글씨체 기울임꼴 */
+}
+
+#text-view {
+    float: left;
+    width: 100%;
+    padding: 5px 10px;  /* 요소의 안쪽여백 */
+}
+
+#send-button, #stop-button {
+    width: 20%;
+    padding: 6px 10px;  /* 요소의 안쪽여백 */
+}
