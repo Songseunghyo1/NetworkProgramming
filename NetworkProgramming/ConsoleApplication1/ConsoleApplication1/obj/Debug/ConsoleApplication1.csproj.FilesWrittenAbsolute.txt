@@ -1,0 +1,5 @@
+/home/songseunghyo/문서/NerworkProgramming/NetworkProgramming/NetworkProgramming/ConsoleApplication1/ConsoleApplication1/obj/Debug/.NETFramework,Version=v4.6.1.AssemblyAttribute.cs
+/home/songseunghyo/문서/NerworkProgramming/NetworkProgramming/NetworkProgramming/ConsoleApplication1/ConsoleApplication1/bin/Debug/ConsoleApplication1.exe.mdb
+/home/songseunghyo/문서/NerworkProgramming/NetworkProgramming/NetworkProgramming/ConsoleApplication1/ConsoleApplication1/bin/Debug/ConsoleApplication1.exe
+/home/songseunghyo/문서/NerworkProgramming/NetworkProgramming/NetworkProgramming/ConsoleApplication1/ConsoleApplication1/obj/Debug/ConsoleApplication1.exe
+/home/songseunghyo/문서/NerworkProgramming/NetworkProgramming/NetworkProgramming/ConsoleApplication1/ConsoleApplication1/obj/Debug/ConsoleApplication1.exe.mdb
