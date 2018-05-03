@@ -1,0 +1,5 @@
+/home/songseunghyo/문서/NerworkProgramming/NetworkProgramming/NetworkProgramming/ChatClient/ChatClient/obj/Debug/.NETFramework,Version=v4.6.1.AssemblyAttribute.cs
+/home/songseunghyo/문서/NerworkProgramming/NetworkProgramming/NetworkProgramming/ChatClient/ChatClient/bin/Debug/ChatClient.exe.mdb
+/home/songseunghyo/문서/NerworkProgramming/NetworkProgramming/NetworkProgramming/ChatClient/ChatClient/bin/Debug/ChatClient.exe
+/home/songseunghyo/문서/NerworkProgramming/NetworkProgramming/NetworkProgramming/ChatClient/ChatClient/obj/Debug/ChatClient.exe
+/home/songseunghyo/문서/NerworkProgramming/NetworkProgramming/NetworkProgramming/ChatClient/ChatClient/obj/Debug/ChatClient.exe.mdb
