@@ -1,0 +1,11 @@
+C:\Users\Vangos\Downloads\6962OS_CodeBundle\6962OS_Code\Chapter 3\WebSockets\WebSockets.Server\WebSockets.Server\bin\Debug\WebSockets.Server.exe.config
+C:\Users\Vangos\Downloads\6962OS_CodeBundle\6962OS_Code\Chapter 4\WebSockets.Server\WebSockets.Server\bin\Debug\WebSockets.Server.exe.config
+C:\Users\Vangos\Downloads\6962OS_CodeBundle\6962OS_Code\Chapter 4\WebSockets.Server\WebSockets.Server\obj\Debug\WebSockets.Server.csprojResolveAssemblyReference.cache
+C:\Users\Vangos\Downloads\6962OS_CodeBundle\6962OS_Code\Chapter 4\WebSockets.Server\WebSockets.Server\bin\Debug\WebSockets.Server.exe
+C:\Users\Vangos\Downloads\6962OS_CodeBundle\6962OS_Code\Chapter 4\WebSockets.Server\WebSockets.Server\bin\Debug\WebSockets.Server.pdb
+C:\Users\Vangos\Downloads\6962OS_CodeBundle\6962OS_Code\Chapter 4\WebSockets.Server\WebSockets.Server\bin\Debug\Fleck.dll
+C:\Users\Vangos\Downloads\6962OS_CodeBundle\6962OS_Code\Chapter 4\WebSockets.Server\WebSockets.Server\obj\Debug\WebSockets.Server.exe
+C:\Users\Vangos\Downloads\6962OS_CodeBundle\6962OS_Code\Chapter 4\WebSockets.Server\WebSockets.Server\obj\Debug\WebSockets.Server.pdb
+C:\Users\Vangos\Downloads\6962OS_CodeBundle\6962OS_Code\Chapter 4a (JSON and image transfer)\WebSockets.Server\WebSockets.Server\bin\Debug\WebSockets.Server.exe.config
+C:\Users\Vangos\Downloads\6962OS_CodeBundle\6962OS_Code\Chapter 4a (JSON and image transfer)\WebSockets.Server\WebSockets.Server\obj\Debug\WebSockets.Server.exe
+C:\Users\Vangos\Downloads\6962OS_CodeBundle\6962OS_Code\Chapter 4a (JSON and image transfer)\WebSockets.Server\WebSockets.Server\obj\Debug\WebSockets.Server.pdb

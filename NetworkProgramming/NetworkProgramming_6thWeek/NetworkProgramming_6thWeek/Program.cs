@@ -1,5 +1,5 @@
-﻿using Fleck;
-using System;
+﻿using System;
+
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -10,7 +10,7 @@ namespace NetworkProgramming_6thWeek
 {
     internal class Program
     {
-        
-        
+        Console.WriteLine("Hello world");
+
     }
 }
